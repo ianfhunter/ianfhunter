@@ -2,7 +2,7 @@
 
 I'm a software developer based in Ireland. I like algorithmic problems and experimentary/prototype work.
 
-- 🌱 I’m currently learning about: Quantum Computing 👀 
+- 🌱 I’m currently learning about: Six Sigma & Cryptocurrency 👀 
 - 👯 I’m open to collaborate on: open source projects to do with my hobbies
 - 💬 Ask me about: 💖💖 my dog! 💖💖
 - 📫 Reach me @: [LinkedIn](https://www.linkedin.com/in/ianfhunter/)
