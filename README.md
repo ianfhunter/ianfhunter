@@ -3,7 +3,7 @@
 I'm a software developer based in Ireland. I like algorithmic problems and experimentary/prototype work.
 
 - 🌱 I’m currently learning about: Japanese & studying for the JLPT N5
-- 🧑‍💻 I'm currently working on: --
+- 🧑‍💻 I'm currently working on: Nothing - Resetting before starting a new role
 - 🧗 My current pastime: Baking 🍰, Reading 📚
 - 👯 I’m open to collaborate on: open source projects to do with my hobbies
 - 💬 Ask me about: my dog! 💖🐶💖 Tabletop Games! ⚔️🎲
